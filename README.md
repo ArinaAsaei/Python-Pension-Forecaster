@@ -49,3 +49,17 @@ The engine's flexibility comes from its ability to accept complex parameters via
         "lump_sum_formula": "2 * current_salary"
     }
 }
+```
+---
+## 🗺️ Project Roadmap
+The following features and improvements are planned for future development:
+
+[ ] Streamlit User Interface: Develop an interactive web application to configure assumptions and visualize valuation and forecast results.
+
+[ ] Expanded Plan Provisions: Add support for more complex benefit formulas and retirement options.
+
+[ ] Advanced Decrement Modeling: Incorporate disability decrements into the simulation.
+
+[ ] Comprehensive Unit Testing: Develop a full suite of tests to validate calculations against a wider range of plan designs and edge cases.
+
+[ ] Detailed Reporting: Implement functions to generate comprehensive PDF reports of the valuation and forecast results.
